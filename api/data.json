@@ -2,9 +2,9 @@
   "flavors": {
       "github": {
       "stable": {
-        "apk": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.21.16-1.0.5/BraveNewPipe_v0.21.16-1.0.5.apk",
-        "version": "0.21.16-1.0.5",
-        "version_code": 8982
+        "apk": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.22.0-1.0.5/BraveNewPipe_v0.22.0-1.0.5.apk",
+        "version": "0.22.0-1.0.5",
+        "version_code": 8983
       }
     }
   }
