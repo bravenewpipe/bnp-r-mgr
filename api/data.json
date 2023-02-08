@@ -2,15 +2,15 @@
   "flavors": {
     "github": {
       "stable": {
-        "apk": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.23.3-1.1.1/BraveNewPipe_v0.23.3-1.1.1.apk",
+        "apk": "https://github.com/bravenewpipe/BraveNewPipeLegacy/releases/download/v0.23.3-2.0.2/BraveNewPipeLegacy_v0.23.3-2.0.2.apk",
         "alternative_apks": [
           {
             "alternative": "conscrypt",
-            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.23.3-1.1.1/BraveNewPipe_conscrypt_v0.23.3-1.1.1.apk"
+            "url": "https://github.com/bravenewpipe/BraveNewPipeLegacy/releases/download/v0.23.3-2.0.2/BraveNewPipeLegacy_conscrypt_v0.23.3-2.0.2.apk"
           }
         ],
-        "version": "0.23.3-1.1.1",
-        "version_code": 13989
+        "version": "0.23.3-2.0.2",
+        "version_code": 15989
       }
     }
   }
