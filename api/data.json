@@ -2,15 +2,20 @@
   "flavors": {
     "github": {
       "stable": {
-        "apk": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.2-2.2.1/BraveNewPipe_v0.27.2-2.2.1.apk",
+        "apk": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.2-2.3.0/BraveNewPipe_v0.27.2-2.3.0.apk",
         "alternative_apks": [
           {
-            "alternative": "conscrypt",
-            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.2-2.2.1/BraveNewPipe_conscrypt_v0.27.2-2.2.1.apk"
+            "alternative": "braveConscrypt",
+            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.2-2.3.0/BraveNewPipe_conscrypt_v0.27.2-2.3.0.apk"
+          },
+          {
+            "alternative": "braveLegacy",
+            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.2-2.3.0/BraveNewPipe_legacy_v0.27.2-2.3.0.apk"
           }
         ],
-        "version": "0.27.2-2.2.1",
-        "version_code": 33999
+        "version": "0.27.2-2.3.0",
+        "version_code": 34999,
+        "change_log": "BraveNewPipe Release 0.27.2-2.3.0\n\n- Integrated updater feature. BraveNewPipe will download a new version and act as an installer\n  source (you have to allow that). To enable that feature go to:\n  `Settings -> 'BraveNewPipe Settings' -> 'Update Behaviour'`\n\n- There are no other changes.\n\n"
       }
     }
   }
