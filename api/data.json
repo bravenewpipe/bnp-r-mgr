@@ -2,20 +2,20 @@
   "flavors": {
     "github": {
       "stable": {
-        "apk": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.2-2.3.1/BraveNewPipe_v0.27.2-2.3.1.apk",
+        "apk": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.2-2.3.2/BraveNewPipe_v0.27.2-2.3.2.apk",
         "alternative_apks": [
           {
             "alternative": "braveConscrypt",
-            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.2-2.3.1/BraveNewPipe_conscrypt_v0.27.2-2.3.1.apk"
+            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.2-2.3.2/BraveNewPipe_conscrypt_v0.27.2-2.3.2.apk"
           },
           {
             "alternative": "braveLegacy",
-            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.2-2.3.1/BraveNewPipe_legacy_v0.27.2-2.3.1.apk"
+            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.2-2.3.2/BraveNewPipe_legacy_v0.27.2-2.3.2.apk"
           }
         ],
-        "version": "0.27.2-2.3.1",
-        "version_code": 35999,
-        "change_log": "BraveNewPipe Release 0.27.2-2.3.1\n\nSome fixes from @Benau (thank you):\n- RUMBLE: support video comments\n- RUMBLE: Add channel description info\n- RUMBLE: Fix rumble subscriber fetcher\n\n"
+        "version": "0.27.2-2.3.2",
+        "version_code": 36999,
+        "change_log": "BraveNewPipe Release 0.27.2-2.3.2\n\n- hotfix: sync with NewPipeExtractor:v0.24.4 for youtube\n\n"
       }
     }
   }
