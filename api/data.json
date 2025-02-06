@@ -2,20 +2,20 @@
   "flavors": {
     "github": {
       "stable": {
-        "apk": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.5-2.3.3/BraveNewPipe_v0.27.5-2.3.3.apk",
+        "apk": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.6-2.3.3/BraveNewPipe_v0.27.6-2.3.3.apk",
         "alternative_apks": [
           {
             "alternative": "braveConscrypt",
-            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.5-2.3.3/BraveNewPipe_conscrypt_v0.27.5-2.3.3.apk"
+            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.6-2.3.3/BraveNewPipe_conscrypt_v0.27.6-2.3.3.apk"
           },
           {
             "alternative": "braveLegacy",
-            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.5-2.3.3/BraveNewPipe_legacy_v0.27.5-2.3.3.apk"
+            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.6-2.3.3/BraveNewPipe_legacy_v0.27.6-2.3.3.apk"
           }
         ],
-        "version": "0.27.5-2.3.3",
-        "version_code": 371002,
-        "change_log": "BraveNewPipe Release 0.27.5-2.3.3\n\n- include NewPipe changes from 0.27.2..0.27.5\n- BraveNewPipeLegacy: fix default search dialog selection. Closes #169\n- RUMBLE: the resolution is now correctly matched within BraveNewPipe. Closes  #165\n\n"
+        "version": "0.27.6-2.3.3",
+        "version_code": 371003,
+        "change_log": "BraveNewPipe Release 0.27.6-2.3.3\n\n-sync with NewPipe v0.27.6\n\n"
       }
     }
   }
