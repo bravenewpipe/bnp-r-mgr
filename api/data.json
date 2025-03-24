@@ -2,20 +2,20 @@
   "flavors": {
     "github": {
       "stable": {
-        "apk": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.6-2.3.5/BravePipe_v0.27.6-2.3.5.apk",
+        "apk": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.6-2.3.6/BravePipe_v0.27.6-2.3.6.apk",
         "alternative_apks": [
           {
             "alternative": "braveConscrypt",
-            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.6-2.3.5/BravePipe_conscrypt_v0.27.6-2.3.5.apk"
+            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.6-2.3.6/BravePipe_conscrypt_v0.27.6-2.3.6.apk"
           },
           {
             "alternative": "braveLegacy",
-            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.6-2.3.5/BravePipe_legacy_v0.27.6-2.3.5.apk"
+            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.6-2.3.6/BravePipe_legacy_v0.27.6-2.3.6.apk"
           }
         ],
-        "version": "0.27.6-2.3.5",
-        "version_code": 391003,
-        "change_log": "BravePipe Release 0.27.6-2.3.5\n\nIMPORTANT INFORMATION:\n\nBraveNewPipe is now called BravePipe.\n\nWhy?:\n- NewPipe is now a trade mark.\n- Therefore BraveNewPipe is no longer a viable name.\n- I like the new name.\n\nFixes:\n- RUMBLE: fix Exception on related video info extraction\n- RUMBLE: fix: on some (all) recorded live streams there is no view count\n- RUMBLE: handle non existing channels better\n\n"
+        "version": "0.27.6-2.3.6",
+        "version_code": 401003,
+        "change_log": "BravePipe Release 0.27.6-2.3.6\n\nNew features available on ('BravePipe Settings' settings page)\n- BravePipe: Feature add internal volume control\n- BravePipe(Extractor): RUMBLE: setting and methods to hide premium content\n- BravePipe(Extractor): YOUTUBE: add setting to hide youtube 'members only' streams\n\nMisc:\n- moved search ui selection into 'BravePipe Settings' page\n\nFixes/Improvments\n- BravePipeExtractor: RUMBLE: show (dis)like's of a stream\n- BravePipeExtractor: RUMBLE: fix channel search extraction\n\n"
       }
     }
   }
