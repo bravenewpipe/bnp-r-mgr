@@ -2,20 +2,20 @@
   "flavors": {
     "github": {
       "stable": {
-        "apk": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.6-2.3.6/BravePipe_v0.27.6-2.3.6.apk",
+        "apk": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.6-2.3.7/BravePipe_v0.27.6-2.3.7.apk",
         "alternative_apks": [
           {
             "alternative": "braveConscrypt",
-            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.6-2.3.6/BravePipe_conscrypt_v0.27.6-2.3.6.apk"
+            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.6-2.3.7/BravePipe_conscrypt_v0.27.6-2.3.7.apk"
           },
           {
             "alternative": "braveLegacy",
-            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.6-2.3.6/BravePipe_legacy_v0.27.6-2.3.6.apk"
+            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.6-2.3.7/BravePipe_legacy_v0.27.6-2.3.7.apk"
           }
         ],
-        "version": "0.27.6-2.3.6",
-        "version_code": 401003,
-        "change_log": "BravePipe Release 0.27.6-2.3.6\n\nNew features available on ('BravePipe Settings' settings page)\n- BravePipe: Feature add internal volume control\n- BravePipe(Extractor): RUMBLE: setting and methods to hide premium content\n- BravePipe(Extractor): YOUTUBE: add setting to hide youtube 'members only' streams\n\nMisc:\n- moved search ui selection into 'BravePipe Settings' page\n\nFixes/Improvments\n- BravePipeExtractor: RUMBLE: show (dis)like's of a stream\n- BravePipeExtractor: RUMBLE: fix channel search extraction\n\n"
+        "version": "0.27.6-2.3.7",
+        "version_code": 411003,
+        "change_log": "BravePipe Release 0.27.6-2.3.7\n\nFixes:\n- BravePipe(Extractor): RUMBLE: fix some hls streams\n- BravePipe(Extractor): YOUTUBE: Adds a new regex to find the signature deobfuscation\n\nMisc:\n- BravePipe: changing default name of settings export file to BravePipeData\n  and the default subscription-only file to bravepipe_subscriptions.\n\n"
       }
     }
   }
