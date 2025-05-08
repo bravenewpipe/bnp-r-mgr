@@ -2,20 +2,20 @@
   "flavors": {
     "github": {
       "stable": {
-        "apk": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.6-2.3.8/BravePipe_v0.27.6-2.3.8.apk",
+        "apk": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.27.7-2.3.8/BravePipe_v0.27.7-2.3.8.apk",
         "alternative_apks": [
           {
             "alternative": "braveConscrypt",
-            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.6-2.3.8/BravePipe_conscrypt_v0.27.6-2.3.8.apk"
+            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.27.7-2.3.8/BravePipe_conscrypt_v0.27.7-2.3.8.apk"
           },
           {
             "alternative": "braveLegacy",
-            "url": "https://github.com/bravenewpipe/NewPipe/releases/download/v0.27.6-2.3.8/BravePipe_legacy_v0.27.6-2.3.8.apk"
+            "url": "https://github.com/bravepipeproject/BravePipe/releases/download/v0.27.7-2.3.8/BravePipe_legacy_v0.27.7-2.3.8.apk"
           }
         ],
-        "version": "0.27.6-2.3.8",
-        "version_code": 421003,
-        "change_log": "BravePipe Release 0.27.6-2.3.8\n\nIMPORTANT INFORMATION:\n- BravePipe will now be found here: https://github.com/bravepipeproject\n  The git repo of the app itself: https://github.com/bravepipeproject/BravePipe\n  The Extractor git repo: https://github.com/bravepipeproject/BravePipeExtractor\n  -> this had to be done to comply with NewPipe's trademark stuff.\n\nFeature:\n- setting 1: Replies to a comment will be shown over current fragment\n- setting 2: Comments/replies/related streams/description will scroll\n  below the currently playing stream.\n-> both settings are not enabled by default\n\nMisc:\n- BravePipe: There are finally some ways you can donate/give a tip.\n\n"
+        "version": "0.27.7-2.3.8",
+        "version_code": 431004,
+        "change_log": "BravePipe Release 0.27.7-2.3.8\n\n-sync with NewPipe v0.27.7\n\n"
       }
     }
   }
